@@ -43,6 +43,13 @@ Tomorrow's Goal
   
 ### April 10th
   
+Today I added the captions, detailing what data was used to generate each plot. 
+I also made a copy of my index.html file so that i can develop one into a dashboard and play with the plotly library in the other.
+
+  - [x] Add data detals to each graph.
+  
+ ### April 11th 
+  
 </p>
 </details>
   
