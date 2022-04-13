@@ -51,6 +51,7 @@ I also made a copy of my index.html file so that i can develop one into a dashbo
  ### April 13th 
 
  I'm eager to start manipulating data with JavaScript so I think I will start on that today.
+ - well, i forgot what the .map() did so i'm going to play with that and looping through data to get started. 
   
 </p>
 </details>
