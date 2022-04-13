@@ -52,10 +52,21 @@ I also made a copy of my index.html file so that i can develop one into a dashbo
  I'm eager to start manipulating data with JavaScript so I think I will start on that today.
  - well, i forgot what the .map() did so i'm going to play with that and looping through data to get started. I am using my google chrome browser console. 
 
- ///<inser4.13.22.map here>
+ ///<insert 4.13.22.map here>
 
- The num parameter that goes inside function can be named anything. That's simply an arbitrary name for the parameter.
-  
+ The "num" parameter that goes inside function can be named anything. That's simply an arbitrary name for the parameter. This provides me the ability to create transformations in my data that are clearly defined, and probsbly several other things now that i sit and reflect. I can divide, multiply, add to any array in a "loop-like" fashion.
+  - im pretty sure we can do it with Objects as well. I'm going to try!
+  - but first I am going to make sure i understand  how to create an object. I know that i will make Keys: values pairs, I just need to ensure correct syntax. 
+    - In my first attempt to run my own object in the console i ran into a syntax error.
+    - Second attempt:
+    - Third attempt:
+
+  Now I will try implementing the .map() Method:
+
+
+  Since that was a sucess, I started playing with .filter()
+
+
 </p>
 </details>
   
