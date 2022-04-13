@@ -40,7 +40,6 @@ Tomorrow's Goal
 
 
   
-  
 ### April 10th
   
 Today I added the captions, detailing what data was used to generate each plot. 
@@ -51,7 +50,11 @@ I also made a copy of my index.html file so that i can develop one into a dashbo
  ### April 13th 
 
  I'm eager to start manipulating data with JavaScript so I think I will start on that today.
- - well, i forgot what the .map() did so i'm going to play with that and looping through data to get started. 
+ - well, i forgot what the .map() did so i'm going to play with that and looping through data to get started. I am using my google chrome browser console. 
+
+ ///<inser4.13.22.map here>
+
+ The num parameter that goes inside function can be named anything. That's simply an arbitrary name for the parameter.
   
 </p>
 </details>
