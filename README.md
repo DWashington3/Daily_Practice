@@ -46,9 +46,11 @@ Tomorrow's Goal
 Today I added the captions, detailing what data was used to generate each plot. 
 I also made a copy of my index.html file so that i can develop one into a dashboard and play with the plotly library in the other.
 
-  - [x] Add data detals to each graph.
+  - [x] Add data detials to each graph.
   
- ### April 11th 
+ ### April 13th 
+
+ I'm eager to start manipulating data with JavaScript so I think I will start on that today.
   
 </p>
 </details>
