@@ -4,14 +4,16 @@ Fundamental Practicing
 </details>
   
 <details><summary> APRIL 2023 </summary>
-  <p>
-  ### April 2nd 
-  Well,that wasn't daily practice. Haha! I've managed to do light VBA practice at work almsot daily, however, I have a desire to learn other things! I learned I really enjoy DevOps. My team is failry new but very valuable so i personally want to better my skills. 
+<p>
   
-  So I said all of that just to say my focus has changed and I will be practiing differnt things daily. 
+  ### April 2nd 
+  
+  Well, that wasn't daily practice. Haha! I've managed to do light VBA practice at work almost daily, however, I have a desire to learn other things! I learned I really enjoy DevOps. My team is fairly new but very valuable so i personally want to better my skills. 
+  
+  So I said all of that just to say my focus has changed and I will be practicing different things daily. 
   My new intrest consist of the following: 
  -  JIRA cloud
- -  Conflunence
+ -  Confluence
  - JQL
  - Python
  - SQL
@@ -19,7 +21,12 @@ Fundamental Practicing
   -  VBA
   - Excel
     
-  I don't really have an eleaborate plan to build anything,  but i will be checking in daily to work on something.   
+  I don't really have an elaborate plan to build anything, but i will be checking in daily to work on something.   
+    
+    With that being said i am feeling extremely overwhelmed with the skills I should remember but have forgotten so I think before i even get to the skills mentioned above i have to relearn  git bash commands, and branch basics. That’s going to be critical to my documenting my process daily so i will start there. Also, since I do daily work with confluence and JIRA i will work on how i can document that work legally with my work restrictions.
+
+**Objective 1:** Relearn Git Basics, and look into bitbucket
+
   </p>
 </details>
 <details><summary> MAY 2023 </summary>
