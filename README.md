@@ -1,6 +1,32 @@
 # [DWashington3](https://github.com/DWashington3)
 Fundamental Practicing 
 
+</details>
+  
+<details><summary> APRIL 2023 </summary>
+  <p>
+  ### April 2nd 
+  Well,that wasn't daily practice. Haha! I've managed to do light VBA practice at work almsot daily, however, I have a desire to learn other things! I learned I really enjoy DevOps. My team is failry new but very valuable so i personally want to better my skills. 
+  
+  So I said all of that just to say my focus has changed and I will be practiing differnt things daily. 
+  My new intrest consist of the following: 
+ -  JIRA cloud
+ -  Conflunence
+ - JQL
+ - Python
+ - SQL
+  - Miro
+  -  VBA
+  - Excel
+    
+  I don't really have an eleaborate plan to build anything,  but i will be checking in daily to work on something.   
+  </p>
+</details>
+<details><summary> MAY 2023 </summary>
+  <p></p>
+</details>
+
+
 <details><summary> APRIL 2022 </summary>  
 <p>
   
@@ -68,14 +94,6 @@ I also made a copy of my index.html file so that i can develop one into a dashbo
 
 
 </p>
-</details>
-  
-<details><summary> MAY 2022 </summary>
-  <p></p>
-</details>
-<details><summary> JUNE 2022 </summary>
-  <p></p>
-</details>
 
 # Resources
 - https://plotly.com/javascript/basic-charts/
