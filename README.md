@@ -25,13 +25,24 @@ Fundamental Practicing
     
     With that being said i am feeling extremely overwhelmed with the skills I should remember but have forgotten so I think before i even get to the skills mentioned above i have to relearn  git bash commands, and branch basics. That’s going to be critical to my documenting my process daily so i will start there. Also, since I do daily work with confluence and JIRA i will work on how i can document that work legally with my work restrictions.
 
-**Objective 1:** Relearn Git Basics, and look into bitbucket
+**Objective 1:** Relearn Version control, Git Basics, and look into bitbucket
+
+[i am starting here](https://docs.github.com/en/get-started)
+
+And i am going to use datacamp since i really like how they explain the WHY/ Mechnaisms behind certain things, whihc is very helpful fro my science brain.
+
 
   </p>
 </details>
 <details><summary> MAY 2023 </summary>
   <p></p>
 </details>
+
+
+
+
+
+
 
 
 <details><summary> APRIL 2022 </summary>  
