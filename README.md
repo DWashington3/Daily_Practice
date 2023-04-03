@@ -29,7 +29,14 @@ Fundamental Practicing
 
 [i am starting here](https://docs.github.com/en/get-started)
 
-And i am going to use datacamp since i really like how they explain the WHY/ Mechnaisms behind certain things, whihc is very helpful fro my science brain.
+And i am going to use datacamp since i really like how they explain the WHY/ Mechnaisms behind certain things, which is very helpful for my science brain.
+
+### April 3rd
+
+Until i figure out the work doucmentation, i will just summarize my day here.
+Today I played with Miro. Our team is fairly new and we are still in the process of developing our own processes. I am researching the tools we can use for wireframes becasue we have been running into the problem of unsatified stakeholders. Not because the requirements weren't met but because the stakeholder didn't know what they wanted visually. So i will be looking into miro wireframs that we can use for the front-end dashboard development.  
+
+In addition, to that I did some daily backlog grooming. Attended a few meetings and updated the user stories with requirments, and the team wiki space.
 
 
   </p>
