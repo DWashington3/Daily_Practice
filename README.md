@@ -38,7 +38,46 @@ Today I played with Miro. Our team is fairly new and we are still in the process
 
 In addition, to that I did some daily backlog grooming. Attended a few meetings and updated the user stories with requirments, and the team wiki space.
 
+### April 14th
 
+Version Control
+- What is it?
+  Version- Contentes of a file at a given point in time and the metadata 
+  VErsion control- group of systems and process to manage changes made to programs, documents 
+
+- Why is it importatnt?
+ Enables transparency 
+ Tracks files in different states
+ Combine version of the file
+ Revert changes 
+ 
+ - Useful commands for navigating 
+ pwd- locate preint location in directory
+ ls - get list of files in directory
+ ls-a - will show all directories including hidden
+ cd- change directory
+ git status - find which files are in the staging area
+ git restore
+  
+  
+ Editing with command shell
+ - Nano file_name.csv - will open a text editor enabling content modifcation
+ - Crtl + 0- Save changes
+ - Ctrl+ X - Exit the text editor
+ - echo- create /edit a file
+ - got --version - check the git version
+    
+ Saving Files
+ - Repository is made up of the files, directory, and git storage
+ - Do not delete .git
+ - The process of saving invlives staging and committing
+  1. Staging = saving a draft
+  - git add - add a single file
+  - git add . - add all the files and directors in current location
+  2. Comitting = saving file/ update the repo
+  - git commit -m " insert comment"
+  
+  
   </p>
 </details>
 <details><summary> MAY 2023 </summary>
