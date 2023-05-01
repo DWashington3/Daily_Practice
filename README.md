@@ -52,7 +52,7 @@ Version Control
  Revert changes 
  
  - Useful commands for navigating 
- pwd- locate preint location in directory
+ pwd- locate print location in directory
  ls - get list of files in directory
  ls-a - will show all directories including hidden
  cd- change directory
@@ -65,7 +65,7 @@ Version Control
  - Crtl + 0- Save changes
  - Ctrl+ X - Exit the text editor
  - echo- create /edit a file
- - got --version - check the git version
+ - git --version - check the git version
     
  Saving Files
  - Repository is made up of the files, directory, and git storage
@@ -81,7 +81,15 @@ Version Control
   </p>
 </details>
 <details><summary> MAY 2023 </summary>
-  <p></p>
+  <p> Still have not got my daily groove yet, but i have made some major break throughs at work. Our team is adopting the agile ceremonies very well. The reshaping of how we do grooming has been so much more effective for the team. Tomorrow I’m going to try to have a successful sprint planning. This time around i will be in a way better place. I will have stories that originated from idea day that we can put in order and give me a framework to work  for requirement.
+  
+In the meantime outside of work i really need to focus on the basics because my skills can be leveraged more. I just have to be confident and right now I don't think the team is confident because i am not so that’s what this whole daily programming thing is all about.
+
+ So i will pick righ back up from where i started. 
+ 
+  - sub directores don't have.git stored
+  - most of the work i did was in data camp, less definitions more application. 
+  </p>
 </details>
 
 
