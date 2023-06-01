@@ -85,22 +85,28 @@ Version Control
   
 In the meantime outside of work i really need to focus on the basics because my skills can be leveraged more. I just have to be confident and right now I don't think the team is confident because i am not so that’s what this whole daily programming thing is all about.
 
- So i will pick righ back up from where i started. 
+ So i will pick right back up from where i started. 
  
   - sub directores don't have.git stored
   - most of the work i did was in data camp, less definitions more application. 
     
-    Started diggining into PBI at work. Will be generating reports soon. 
-    
-    
-    
+    end of may. ,erp. its been a rough month but i Started diggining into PBI at work. Will be generating reports soon. 
+           
   </p>
 </details>
 
 
 <details><summary> JUNE 2023 </summary>  
- <p> <p/>
+ <p> Today is may 31st but im getting june set up for success!
+  
+   
+  <p/>
 
+  
+  
+  
+  
+  
 
 
 <details><summary> APRIL 2022 </summary>  
