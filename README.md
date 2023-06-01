@@ -89,13 +89,17 @@ In the meantime outside of work i really need to focus on the basics because my 
  
   - sub directores don't have.git stored
   - most of the work i did was in data camp, less definitions more application. 
+    
+    Started diggining into PBI at work. Will be generating reports soon. 
+    
+    
+    
   </p>
 </details>
 
 
-
-
-
+<details><summary> JUNE 2023 </summary>  
+ <p> <p/>
 
 
 
