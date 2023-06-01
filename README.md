@@ -100,7 +100,7 @@ In the meantime outside of work i really need to focus on the basics because my 
  <p> Today is may 31st but im getting june set up for success!
   
    
-  <p/>
+  <p/></details>
 
   
   
