@@ -98,7 +98,27 @@ In the meantime outside of work i really need to focus on the basics because my 
 
 <details><summary> JUNE 2023 </summary>  
  <p> Today is may 31st but im getting june set up for success!
+   - git diff filename : Compare an unstaged file name with the last committed version
+   - git diff -r HEAD filename : compare a staged file with the last committed version
+   - git diff -r HEAD : compare all staged files with the last committed version
   
+   Storage
+   Commit structure
+   Commit: metadata
+   Tree: tracks the names and locations of the repo
+   Blob: 
+     Binary large object
+     may contain data of any kind
+     compressed snapshot of a file's contents
+   
+   -git log: view commit info to repo in chronological order
+   
+   -git hash: 40 character alphanumeric string that is unique for each commit
+    
+   Useful when trying to locate a particular commit
+    - git log
+    capture the first 6-8 characters
+   - git show (6-8 characters)
    
   <p/></details>
 
