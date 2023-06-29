@@ -119,6 +119,13 @@ In the meantime outside of work i really need to focus on the basics because my 
     - git log
     capture the first 6-8 characters
    - git show (6-8 characters)
+
+June 29th
+-   I've learned powerBI at work, and created a repo for the team in bitbucket.
+-   
+i'm going to pivot my personal studies to python as i forsee thatto be more useful at the moment.
+
+
    
   <p/></details>
 
