@@ -11,7 +11,7 @@ Fundamental Practicing
   Well, that wasn't daily practice. Haha! I've managed to do light VBA practice at work almost daily, however, I have a desire to learn other things! I learned I really enjoy DevOps. My team is fairly new but very valuable so i personally want to better my skills. 
   
   So I said all of that just to say my focus has changed and I will be practicing different things daily. 
-  My new intrest consist of the following: 
+  My new interest consist of the following: 
  -  JIRA cloud
  -  Confluence
  - JQL
@@ -29,14 +29,14 @@ Fundamental Practicing
 
 [i am starting here](https://docs.github.com/en/get-started)
 
-And i am going to use datacamp since i really like how they explain the WHY/ Mechnaisms behind certain things, which is very helpful for my science brain.
+And i am going to use datacamp since i really like how they explain the WHY/mechanisms behind certain things, which is very helpful for my science brain.
 
 ### April 3rd
 
-Until i figure out the work doucmentation, i will just summarize my day here.
-Today I played with Miro. Our team is fairly new and we are still in the process of developing our own processes. I am researching the tools we can use for wireframes becasue we have been running into the problem of unsatified stakeholders. Not because the requirements weren't met but because the stakeholder didn't know what they wanted visually. So i will be looking into miro wireframs that we can use for the front-end dashboard development.  
+Until i figure out the work documentation, i will just summarize my day here.
+Today I played with Miro. Our team is fairly new and we are still in the process of developing our own processes. I am researching the tools we can use for wireframes because we have been running into the problem of unsatisfied stakeholders. Not because the requirements weren't met but because the stakeholder didn't know what they wanted visually. So i will be looking into miro wireframes that we can use for the front-end dashboard development.  
 
-In addition, to that I did some daily backlog grooming. Attended a few meetings and updated the user stories with requirments, and the team wiki space.
+In addition, to that I did some daily backlog grooming. Attended a few meetings and updated the user stories with requirements, and the team wiki space.
 
 ### April 14th
 
@@ -52,7 +52,7 @@ Version Control
  Revert changes 
  
  - Useful commands for navigating 
- pwd- locate print location in directory
+ pwd- locate print location in the directory
  ls - get list of files in directory
  ls-a - will show all directories including hidden
  cd- change directory
@@ -61,7 +61,7 @@ Version Control
   
   
  Editing with command shell
- - Nano file_name.csv - will open a text editor enabling content modifcation
+ - Nano file_name.csv - will open a text editor enabling content modification
  - Crtl + 0- Save changes
  - Ctrl+ X - Exit the text editor
  - echo- create /edit a file
@@ -70,27 +70,27 @@ Version Control
  Saving Files
  - Repository is made up of the files, directory, and git storage
  - Do not delete .git
- - The process of saving invlives staging and committing
+ - The process of saving files staging and committing
   1. Staging = saving a draft
   - git add - add a single file
   - git add . - add all the files and directors in current location
-  2. Comitting = saving file/ update the repo
+  2. Committing = saving file/ update the repo
   - git commit -m " insert comment"
   
   
   </p>
 </details>
 <details><summary> MAY 2023 </summary>
-  <p> Still have not got my daily groove yet, but i have made some major break throughs at work. Our team is adopting the agile ceremonies very well. The reshaping of how we do grooming has been so much more effective for the team. Tomorrow I’m going to try to have a successful sprint planning. This time around i will be in a way better place. I will have stories that originated from idea day that we can put in order and give me a framework to work  for requirement.
+  <p> Still have not got my daily groove yet, but i have made some major breakthroughs at work. Our team is adopting the agile ceremonies very well. The reshaping of how we do grooming has been so much more effective for the team. Tomorrow I’m going to try to have a successful sprint planning. This time around i will be in a way better place. I will have stories that originated from idea day that we can put in order and give me a framework to work  for requirements.
   
-In the meantime outside of work i really need to focus on the basics because my skills can be leveraged more. I just have to be confident and right now I don't think the team is confident because i am not so that’s what this whole daily programming thing is all about.
+In the meantime, outside of work i really need to focus on the basics because my skills can be leveraged more. I just have to be confident and right now I don't think the team is confident because i am not so that’s what this whole daily programming thing is all about.
 
  So i will pick right back up from where i started. 
  
-  - sub directores don't have.git stored
-  - most of the work i did was in data camp, less definitions more application. 
+  - sub directories don't have.git stored
+  - most of the work i did was in data camp, less definitions more applications. 
     
-    end of may. ,erp. its been a rough month but i Started diggining into PBI at work. Will be generating reports soon. 
+    end of may. ,erp. its been a rough month but i Started digging into PBI at work. Will be generating reports soon. 
            
   </p>
 </details>
@@ -123,7 +123,14 @@ In the meantime outside of work i really need to focus on the basics because my 
 June 29th
 -   I've learned powerBI at work, and created a repo for the team in bitbucket.
 -   
-i'm going to pivot my personal studies to python as i forsee thatto be more useful at the moment.
+i'm going to pivot my personal studies to python as i foresee that to be more useful at the moment.
+
+So I am working on a KAggle project. I ran into file not found error when importing into my data frame. 
+  - solution to the error was putting an "r" in front of the file path name to convert it into a raw string.
+  - Raw strings are not a distinct data type, they are still strings, however, it represent all backslashes as a separate character, while a file path in the string is considered a single character.
+  - viewing the data frame was cleaned.
+- in preparation for the Machine learning th dev used one hot encoder
+
 
 
    
@@ -171,7 +178,7 @@ Tomorrow's Goal
   
 - [ ] Recreate these plots with Python in Jupyter Notebook
 - [ ] I will note the data sets used, as they were randomly generated [Random.org](https://www.random.org/integer-sets/?sets=3&num=50&min=1&max=100&seqnos=on&commas=on&sort=on&order=index&format=html&rnd=new).
-- [ ] I need to format my [github page](https://dwashington3.github.io/Daily_Practice/) but for now I have it lauched for daily tracking. 
+- [ ] I need to format my [github page](https://dwashington3.github.io/Daily_Practice/) but for now I have it launched for daily tracking. 
 
 
   
@@ -180,7 +187,7 @@ Tomorrow's Goal
 Today I added the captions, detailing what data was used to generate each plot. 
 I also made a copy of my index.html file so that i can develop one into a dashboard and play with the plotly library in the other.
 
-  - [x] Add data detials to each graph.
+  - [x] Add data details to each graph.
   
  ### April 13th 
 
@@ -189,7 +196,7 @@ I also made a copy of my index.html file so that i can develop one into a dashbo
 
  ///<insert 4.13.22.map here>
 
- The "num" parameter that goes inside function can be named anything. That's simply an arbitrary name for the parameter. This provides me the ability to create transformations in my data that are clearly defined, and probsbly several other things now that i sit and reflect. I can divide, multiply, add to any array in a "loop-like" fashion.
+ The "num" parameter that goes inside function can be named anything. That's simply an arbitrary name for the parameter. This provides me the ability to create transformations in my data that are clearly defined, and probably several other things now that i sit and reflect. I can divide, multiply, add to any array in a "loop-like" fashion.
   - im pretty sure we can do it with Objects as well. I'm going to try!
   - but first I am going to make sure i understand  how to create an object. I know that i will make Keys: values pairs, I just need to ensure correct syntax. 
     - In my first attempt to run my own object in the console i ran into a syntax error.
@@ -199,7 +206,7 @@ I also made a copy of my index.html file so that i can develop one into a dashbo
   Now I will try implementing the .map() Method:
 
 
-  Since that was a sucess, I started playing with .filter()
+  Since that was a success, I started playing with .filter()
 
 
 </p>
