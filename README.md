@@ -1,10 +1,18 @@
 # [DWashington3](https://github.com/DWashington3)
-Fundamental Practicing 
+</details>
+  
+<details><summary> January 2024 </summary>
+<p>
+
+Health Data Statistics
+
+
 
 </details>
   
 <details><summary> APRIL 2023 </summary>
 <p>
+Fundamental Practicing 
   
   ### April 2nd 
   
